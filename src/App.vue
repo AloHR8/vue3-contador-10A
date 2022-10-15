@@ -1,7 +1,7 @@
 <script>
     export default{
         data: () => ({
-            contador : 10,
+            contador : 500,
         }),
         methods: {
             saludar(){
@@ -56,9 +56,6 @@
   text-decoration: none;
   font-size: 17px;
 }
-
-
-
     .container{
         text-align: center;
     }
